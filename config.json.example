@@ -1,0 +1,15 @@
+{
+    "server" : "irc.foo.com",
+    "nick" : "nick",
+    "channels" : ["#channel"],
+    "password": "password",
+    "logfolder" : "/logs/",
+    "delicious" : "http://user:password@url/api/posts/add?",
+    "listen_port" : 3001,
+    "user" : {
+                "username" : "user",
+                "hostname" : "hostname",
+                "servername" : "servername",
+                "realname" : "real name"
+             }
+}
